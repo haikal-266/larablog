@@ -1,3 +1,8 @@
+
+
+![login](https://github.com/haikal-266/larablog/assets/115348610/da953413-9579-49d0-9055-6b3f937270db)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
